@@ -1,1 +1,3 @@
 poetry.lock
+.pytest_cache
+first_map.html

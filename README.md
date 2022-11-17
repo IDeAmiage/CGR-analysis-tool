@@ -21,6 +21,18 @@ Run .py file:
 ```shell
 poetry run python scripts/example_py.py 
 ```
+Run jupyter file:
+Simply run as usual
+
+### Lint
+```shell
+poetry run task lint
+```
+
+### Test
+```shell
+poetry run task test
+```
 
 ### Ressources
 
@@ -31,3 +43,5 @@ poetry run python scripts/example_py.py
 [dash course](https://www.youtube.com/watch?v=RMBSQ6leonU&ab_channel=CharmingData)
 
 [map tool](https://kepler.gl/)
+
+[pandas-profiling](https://github.com/ydataai/pandas-profiling)
